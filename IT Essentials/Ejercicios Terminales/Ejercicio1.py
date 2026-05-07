@@ -1,0 +1,1 @@
+print("I was exempted but ill practice more later")
