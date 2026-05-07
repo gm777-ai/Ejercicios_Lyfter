@@ -1,3 +1,4 @@
+"""""
 import csv
 
 def read_series(file_path):
@@ -11,3 +12,8 @@ def read_series(file_path):
             print(f"Top choice: {series['Name']} on {series['Platform']} - Score: {series['Score']}/10.")
 
 read_series('shows.csv')
+
+"""
+
+print("Placeholder Python Solution")
+print("Hello everyone")
