@@ -1,0 +1,6 @@
+Changes
+
+05/06/2026
+Folder: Python Basico
+File: manejodecsv.py - The name was changed to manejo_de_csv.py
+
