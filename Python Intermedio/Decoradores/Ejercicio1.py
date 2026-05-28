@@ -2,7 +2,7 @@ from functools import wraps
 
 def print_params_and_return(func):
     @wraps(func)
-    def wrapper(*args, **kwargs):
+    def wrapper(*args, **kwargs):  
         print(f"Parámetros posicionales: {args}")
         print(f"Parámetros nombrados: {kwargs}")
 
