@@ -3,7 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 
 try:
-    import PySimpleGUI as sg
+    import FreeSimpleGUI as sg  #PySimpleGUI
 except ModuleNotFoundError:
     import FreeSimpleGUI as sg
 
